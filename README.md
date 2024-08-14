@@ -12,9 +12,15 @@ Application development for interactive interfaces and human-computer interactio
 ### Contents
 
 experiments/: Directory with notebooks of model architectures.
+
 app/: Application development files for integrating emotion recognition into user interfaces.
-README.md: Project overview, installation instructions, usage.
+
+model documentation: contains model details.
+
+README.md: Project overview.
 
 ### Functionality
 1. Use the final saved model in app.py
 2. Runs a streamlit app which can take input either from webcam(Real-time) or image uploads.
+
+** Model runs are on CPU-8GBRAM. For faster results use GPU
