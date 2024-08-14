@@ -22,5 +22,3 @@ README.md: Project overview.
 ### Functionality
 1. Use the final saved model in app.py
 2. Runs a streamlit app which can take input either from webcam(Real-time) or image uploads.
-
-** Model runs are on CPU-8GBRAM. For faster results use GPU
